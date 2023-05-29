@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap:https://tile-works.herokuapp.com/sitemap.xml
